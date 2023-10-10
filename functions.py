@@ -1,7 +1,7 @@
 FILEPATH = "items.txt"
 
 
-def get_todos(filepath="items.txt"):
+def get_todos(filepath=FILEPATH):
     """ Read a text file and return the list of the to-do items  """
     with open(filepath, "r") as file_internal:
         todos_internal = file_internal.readlines()
