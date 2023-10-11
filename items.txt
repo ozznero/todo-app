@@ -1,4 +1,6 @@
 avviare preparazione per patentino certificazione B2
-continuare Complete Beginner su THM
+continuare complete beginner su tryhackme
+iniziare con hack the box
+inziare a leggere Guerre di rete
 studiare python
-biretta con Gabriel
+
