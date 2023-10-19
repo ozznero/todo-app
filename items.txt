@@ -4,3 +4,5 @@ completare hack the box lab intro
 iniziare a leggere Guerre di rete
 studiare python
 completare hack the box academy
+comprare luce ambientale dietro monitor
+
